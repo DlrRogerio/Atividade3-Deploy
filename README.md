@@ -244,27 +244,6 @@ def read_root():
 
 ---
 
-### Fase 6: Documentação
-
-1. **Atualize este README.md** com todas as etapas, prints de telas, comandos, dicas e desafios extras (Trivy, Slack, SonarQube, Helm).
-
----
-
-## Prints do Projeto
-
-Inclua aqui screenshots do Jenkins, Docker Hub, aplicação rodando localmente e no Kubernetes, saídas do `kubectl`, etc.
-
----
-
-## Desafios Extras (Opcional)
-
-- Scanner de Vulnerabilidades com Trivy
-- Notificações via Slack/Discord
-- Análise SAST com SonarQube
-- Deploy com Helm Chart
-
----
-
 ## Licença
 
 [MIT](LICENSE)
